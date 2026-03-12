@@ -19,3 +19,5 @@ O arquivo `README.md` é a vitrine ou a "capa" do seu projeto. É a primeira coi
 Mande o seu recado aqui:
 ---
 *Feito com 💻 e foco pela nossa turma de Desenvolvimento de Sistemas.*
+
+O cara vai trabalhar usando AJOO DE NOME ( Kaio barbosa )
